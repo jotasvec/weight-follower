@@ -1,0 +1,9 @@
+
+.form-container{
+    position: absolute;
+    top: 30%;
+    z-index: 20;
+    padding: 20px;
+    font-weight: bold;
+    text-align: left; 
+}
